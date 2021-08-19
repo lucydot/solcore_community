@@ -1,2 +1,2 @@
-# solcore_community
+# solcore_map
 Map of solcore community
